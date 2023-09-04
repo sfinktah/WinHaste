@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("WinHaste")]
-[assembly: AssemblyDescription("Windows client for hastebin.com")]
+[assembly: AssemblyDescription("Windows client for pbbin.com")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WinHaste")]
